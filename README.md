@@ -16,6 +16,10 @@ I’m currently studying at Trybe (Fullstack Web Development) and Estácio de S�
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fhparreiras&show_icons=true&locale=en" alt="fhparreiras" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fhparreiras&show_icons=true&locale=en&layout=compact" alt="fhparreiras" />
 </p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fhparreiras&" alt="fhparreiras" /></p>
+<p align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fhparreiras&show_icons=true&locale=en&layout=compact" alt="fhparreiras" />
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fhparreiras&" alt="fhparreiras" />
+</p>
