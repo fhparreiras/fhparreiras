@@ -3,7 +3,7 @@
 #### I am on a journey to become a fullstack web developer.
 
 I'm from Brazil 🇧🇷, currently living in Volta Redonda city, state of Rio de Janeiro. 
-I’m currently studying at Trybe (Fullstack Web Development) and Estácio de Sá (System Analisys and Development).
+I’m studying at Trybe (Fullstack Web Development) and Estácio de Sá (System Analisys and Development).
 
 <h3 align="left">You can find me on:</h3>
 <p align="left">
