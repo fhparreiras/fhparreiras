@@ -8,6 +8,7 @@ I’m studying at Trybe (Fullstack Web Development) and Estácio de Sá (System 
 <h3 align="left">You can find me on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fellipeparreiras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fellipeparreiras" height="30" width="40" /></a>
+<a href="https://www.instagram.com/fellipeparreiras/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="fellipeparreiras" height="30" width="40" /></a>
 </p>
 <br>
 <h3 align="left">Languages and Tools:</h3>
