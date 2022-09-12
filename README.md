@@ -49,6 +49,4 @@ I’m studying at Trybe (Fullstack Web Development) and Estácio de Sá (System 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fhparreiras&show_icons=true&locale=en" alt="fhparreiras" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fhparreiras&show_icons=true&locale=en&layout=compact" 
 </p>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fhparreiras&" alt="fhparreiras" />
-</p>
+
