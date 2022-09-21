@@ -1,5 +1,5 @@
 ### Olá! 👋
-#### Sou  o Fellipe Horta,
+### Sou  o Fellipe Horta,
 Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/" target="blank">Trybe</a> e estou graduando em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Também sou formado em Administração de Empresas e apaixonado por tecnologia, jogos e investimentos.
 <br/>
 - 🌱 Atualmente estou aprendendo os fundamentos da linguagem Python no módulo de Ciência da Computação do curso da Trybe.
