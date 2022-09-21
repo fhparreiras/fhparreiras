@@ -1,17 +1,19 @@
-### Hi there 👋
-#### My name is Fellipe Horta,
-#### I am on a journey to become a fullstack web developer.
+### Olá! 👋
+#### Sou  o Fellipe Horta,
+Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/" target="blank">Trybe</a> e estou graduando em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Também sou formado em Administração de Empresas e apaixonado por tecnologia, jogos e investimentos.
+<br/>
+- 🌱 Atualmente estou aprendendo os fundamentos da linguagem Python no módulo de Ciência da Computação do curso da Trybe.
+- 👨‍💻 Já realizei projetos Front-end em JavaScript puro e em React (Redux ou Context API). Nos últimos meses fiz muitos projetos de Back-end utilizando Node.js aliado a outras linguagens e ferramentas, dependendo do projeto podendo abranger: MySQL, Sequelize, MongoDB, Mongoose, Typescript.
+- 🤝 Sinta-se à vontade para acessar meus repositórios e até mesmo propor code reviews.
+- 📫 Email para contato: fhparreiras@gmail.com
 
-I'm from Brazil 🇧🇷, currently living in Volta Redonda city, state of Rio de Janeiro. 
-I’m studying at Trybe (Fullstack Web Development) and Estácio de Sá (System Analisys and Development).
-
-<h3 align="left">You can find me on:</h3>
+<h3 align="left">Redes sociais:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fellipeparreiras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fellipeparreiras" height="30" width="40" /></a>
 <a href="https://www.instagram.com/fellipeparreiras/" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Instagram.svg" alt="fellipeparreiras" height="30" width="40" /></a>
 </p>
-<br>
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="center" style="display:flex;justify-content:space-evenly;margin-right:5px">
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" hspace="5" alt="linux" width="40" height="40"/>
