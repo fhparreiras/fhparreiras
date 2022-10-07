@@ -1,6 +1,6 @@
 ### Olá! 👋
 ### Sou  o Fellipe Horta,
-Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/" target="blank">Trybe</a> e estou graduando em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Também sou formado em Administração de Empresas e apaixonado por tecnologia, jogos e investimentos.
+Estudo Desenvolvimento Web Fullstack na <a href="https://www.betrybe.com/" target="blank">Trybe</a> e estou graduando em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Também sou formado em Administração de Empresas e apaixonado por tecnologia, jogos e investimentos.
 <br/>
 - 🌱 Atualmente estou aprendendo os fundamentos da linguagem Python no módulo de Ciência da Computação do curso da Trybe.
 - 👨‍💻 Já realizei projetos Front-end em JavaScript puro e em React (Redux ou Context API). Nos últimos meses fiz muitos projetos de Back-end utilizando Node.js aliado a outras linguagens e ferramentas, dependendo do projeto podendo abranger: MySQL, Sequelize, MongoDB, Mongoose, Typescript.
@@ -36,6 +36,9 @@ Estudo Desenvolvimento Web na <a href="https://www.betrybe.com/" target="blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" hspace="3" alt="react" width="40" height="40"/>       </a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" hspace="3" alt="redux" width="40" height="40"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/344/typescript.png" hspace="3" alt="redux" width="40" height="40"/> 
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" hspace="3" alt="docker" width="40" height="40"/>   </a>
