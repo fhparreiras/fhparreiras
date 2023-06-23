@@ -1,8 +1,7 @@
 ### Olá! 👋
 ### Sou  o Fellipe Horta,
-Estudo Desenvolvimento Web Fullstack na <a href="https://www.betrybe.com/" target="blank">Trybe</a> e estou graduando em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Também sou formado em Administração de Empresas e apaixonado por tecnologia, jogos e investimentos.
+Cursei Desenvolvimento Web Fullstack na <a href="https://www.betrybe.com/" target="blank">Trybe</a> e estou graduando em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Também sou formado em Administração de Empresas e apaixonado por tecnologia, jogos e investimentos.
 <br/>
-- 🌱 Atualmente estou aprendendo os fundamentos da linguagem Python no módulo de Ciência da Computação do curso da Trybe.
 - 👨‍💻 Já realizei projetos Front-end em JavaScript puro e em React (Redux ou Context API). Nos últimos meses fiz muitos projetos de Back-end utilizando Node.js aliado a outras linguagens e ferramentas, dependendo do projeto podendo abranger: MySQL, Sequelize, MongoDB, Mongoose, Typescript.
 - 🤝 Sinta-se à vontade para acessar meus repositórios e até mesmo propor code reviews.
 - 📫 Email para contato: fhparreiras@gmail.com
